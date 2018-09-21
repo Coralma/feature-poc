@@ -1,6 +1,6 @@
 package com.coral.income.hub;
 
-public interface IAutoClaimHub {
+public interface IAutoClaimServiceHub {
 
     void executeAutoClaim(AutoClaimVO autoClaimVO);
 
