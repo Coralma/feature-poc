@@ -1,4 +1,4 @@
-package com.coral.income.test;
+package com.poc.autoclaim.test;
 
 import org.junit.Test;
 

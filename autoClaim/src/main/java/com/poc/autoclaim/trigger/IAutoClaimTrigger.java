@@ -1,4 +1,4 @@
-package com.coral.income.trigger;
+package com.poc.autoclaim.trigger;
 
 public interface IAutoClaimTrigger {
 
